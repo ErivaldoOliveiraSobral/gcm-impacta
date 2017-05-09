@@ -2,10 +2,11 @@
 
 ## Músicas preferidas do Erivaldo
 
-* RU MINE 
-* Fever
-* heathens
-* Fast Car
+* Welcome to the jungle
+* Damn Lie
+* Todos os meus passos
+* Buried Alive
+
 ## Músicas preferidas do INTEGRANTE 2
 
 * música 1
