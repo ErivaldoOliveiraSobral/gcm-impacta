@@ -2,11 +2,10 @@
 
 ## Músicas preferidas do Erivaldo
 
-* Welcome to the Jungle
-* Bried Alive
-* Todos os Meus Passos
-* Damn Lie
-
+* RU MINE 
+* Fever
+* heathens
+* Fast Car
 ## Músicas preferidas do INTEGRANTE 2
 
 * música 1
