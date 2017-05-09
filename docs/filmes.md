@@ -7,9 +7,9 @@
 * Velozes e Furiosos
 * A Noite dos Mortos
 
-## Filmes preferidos de INTEGRANTE2
+## Filmes preferidos de FelippMattheus    
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Piratas do Caribe - A Maldição do Pérola Negra - 6
+* Piratas do Caribe - O Baú da Morte - 5
+* Piratas do Caribe - No fim do Mundo - 5
+* Piratas do Caribe - Navegando em Águas Misteriosas - 6
