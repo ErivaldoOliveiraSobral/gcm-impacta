@@ -1,6 +1,6 @@
 # Filmes preferidos da equipe
 
-## Filmes preferidos de INTEGRANTE1
+## Filmes preferidos de ErivaldoOliveiraSobral
 
 * O Exterminador do Futuro
 * Resident Evil
