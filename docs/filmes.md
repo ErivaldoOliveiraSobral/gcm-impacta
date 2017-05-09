@@ -2,10 +2,10 @@
 
 ## Filmes preferidos de INTEGRANTE1
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* O Exterminador do Futuro
+* Resident Evil
+* Velozes e Furiosos
+* A Noite dos Mortos
 
 ## Filmes preferidos de INTEGRANTE2
 
