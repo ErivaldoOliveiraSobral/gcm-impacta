@@ -1,11 +1,11 @@
 # Games preferidos da equipe 
 
-## Membro 1
+## Membro Erivaldo
 
-* Game A
-* Game B
-* Game C
-* Game D
+* ResidentEvil
+* Darksiders
+* Call of Duty BO2
+* God of War
 
 ## Membro Lipe
 
