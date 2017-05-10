@@ -4,3 +4,5 @@
 
 * Erivaldo Oliveira Sobral 1600397
 * Felipe Matheus de Arruda Silva 1600300
+* Natasha Kowalsetskyj   1600203
+
