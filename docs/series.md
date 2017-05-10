@@ -6,3 +6,19 @@
 * Serie B
 * Serie C
 * Serie D 
+
+## Membro 2
+
+* Serie A
+* Serie B
+* Serie C
+* Serie D 
+
+
+## Membro Nathi ^.^
+
+* Supernatural
+* Dollhouse
+* Bones  
+* Vikings
+
