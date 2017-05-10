@@ -7,14 +7,13 @@
 * Todos os meus passos
 * Buried Alive
 
-## Músicas preferidas do INTEGRANTE 2
+## Músicas preferidas do Felipe
 
-* música 1
-* música 2
-* música 3
-* música 4
+* Arabella
+* Fast Car
+* Fever
 
-## Músicas preferidas do INTEGRANTE 2
+## Músicas preferidas da Natasha
 
 * Uprising
 * BYOB
