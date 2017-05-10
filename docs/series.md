@@ -1,11 +1,11 @@
 # series preferidas da equipe
 
-## Membro 1
+## Membro Erivaldo
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D 
+* Luke Cage
+* Iron fist
+* Vikings
+* z Nation 
 
 ## Membro 2
 
