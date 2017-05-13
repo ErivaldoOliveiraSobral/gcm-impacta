@@ -13,3 +13,10 @@
 * Piratas do Caribe - O Baú da Morte - 5
 * Piratas do Caribe - No fim do Mundo - 5
 * Piratas do Caribe - Navegando em Águas Misteriosas - 6
+
+## Filmes preferidos de Natasha   
+
+* Brilho Eterno de uma Mente sem Lembranças
+* Moulin Rouge
+* Breakfast at Tiffany's
+* Sin City
