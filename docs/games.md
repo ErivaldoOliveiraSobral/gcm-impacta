@@ -7,12 +7,12 @@
 * Call of Duty BO2
 * God of War
 
-## Membro Lipe
+## Membro ErivaldoAlemao
 
-* Game A
-* Game B
-* Game C
-* Game D
+* FIFA 17
+* Silent Hill
+* Need for Speed
+* Far Cry
 
 ## Membro Nathi
 
