@@ -7,12 +7,12 @@
 * Vikings
 * z Nation 
 
-## Membro ErivaldoAlemao
+## Membro FelippMattheus
+* Flash
+* Bates Motel
+* Arrow  
+* Z Nation
 
-* The Last Kingdom
-* Supernatural
-* Scream
-* Dexter 
 
 
 ## Membro Nathi ^.^
@@ -21,4 +21,3 @@
 * Dollhouse
 * Bones  
 * Vikings
-
