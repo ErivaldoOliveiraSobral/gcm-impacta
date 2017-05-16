@@ -7,12 +7,12 @@
 * Vikings
 * z Nation 
 
-## Membro 2
+## Membro ErivaldoAlemao
 
-* Serie A
-* Serie B
-* Serie C
-* Serie D 
+* The Last Kingdom
+* Supernatural
+* Scream
+* Dexter 
 
 
 ## Membro Nathi ^.^
