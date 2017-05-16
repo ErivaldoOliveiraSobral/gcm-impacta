@@ -7,12 +7,12 @@
 * Call of Duty BO2
 * God of War
 
-## Membro ErivaldoAlemao
+## Membro FelippMattheus 
 
-* FIFA 17
-* Silent Hill
-* Need for Speed
-* Far Cry
+* Devil may cry 4
+* Halo 3
+* Halo 4
+* Fallout 3
 
 ## Membro Nathi
 
